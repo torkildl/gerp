@@ -1,0 +1,6 @@
+{
+    "m68k.includePaths": [
+        "/home/torkildl/.vscode/extensions/bartmanabyss.amiga-debug-1.6.8/bin/linux/opt/m68k-amiga-elf/sys-include"
+    ],
+    "m68k.vasm.provideDiagnostics": false
+}
